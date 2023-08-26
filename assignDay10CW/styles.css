@@ -1,0 +1,44 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#circle {
+    width: 11%;
+    height: 10rem;
+    background-color: black;
+    border-radius: 100%;
+}
+
+.shape {
+    width: 50%;
+    height: 50%;
+    background-color: white;
+    position: relative;
+    top: 2.6rem;
+    left: 2.2rem;
+}
+
+button {
+    margin-top: 2rem;
+}
+
+.right-angle-triangle {
+    position: relative;
+    background-color: transparent;
+    top: 2.6rem;
+    left: 2.2rem;
+    height: 0;
+    width: 0;
+    border-bottom: 75px solid blue;
+    border-right: 75px solid transparent;
+}
+
+.pyar {
+    color: black;
+    background-color: black;
+    font-size: 5rem;
+}
