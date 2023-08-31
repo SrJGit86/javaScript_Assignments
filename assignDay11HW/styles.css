@@ -5,26 +5,43 @@ body {
     background-image: url(https://images.unsplash.com/photo-1564216550945-b9aca66d0a10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGFwcCUyMGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    height: 2rem;
+    margin-bottom: 2rem;
 }
 
 .container {
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    padding: 0.8rem;
+}
+
+form {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    background-color: aquamarine;
-    padding: 1rem;
-    width: 30%;
-    align-items: center;
-    height: 100%;
+    justify-content: space-around;
+    align-items: flex-start;
+    height: 90%;
+    background-color: white;
 }
 
 label {
-    color: brown;
+    color: maroon;
     font-size: 1.5rem;
-    font-weight: bold;
-    /* margin-bottom: 2rem; */
+    font-weight: bolder;
 }
 
-br {
-    margin-top: 2rem;
+button {
+    width: 100%;
+    padding: 1rem 0%;
+    font-size: 1.5rem;
+    background-color: maroon;
+    color: white;
+    border: 2px solid grey;
 }
