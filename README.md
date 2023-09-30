@@ -81,7 +81,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 
 ---
-# Assignment DaY 12(HW) Real-Time Character Counter Web Page
+# Assignment Day 12(HW) Real-Time Character Counter Web Page
 
 
 
@@ -98,7 +98,7 @@ This is a simple web page that provides a real-time character counting feature f
 
 ## Demo
 
-You can try out the live demo of the web page here: [Live Demo]([https://your-demo-link.com](https://srjgit86.github.io/javaScript_Assignments/assignDay12HW/index.html))
+You can try out the live demo of the web page here: [Live Demo](https://srjgit86.github.io/javaScript_Assignments/assignDay12HW/index.html)
 
 ## Features
 
